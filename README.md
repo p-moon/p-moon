@@ -1,5 +1,4 @@
 ### Hi there 👋
-[![szh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pf-G&show_icons=true&include_all_commits=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
 <a href="https://github.com/2012monk" target="_blank">
